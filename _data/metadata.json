@@ -1,10 +1,10 @@
 {
-  "title": "Your Blog Name",
+  "title": "Edwin Reyes Blog",
   "url": "https://example.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "I am writing about web components and utilizing different software tools.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I am writing about my experiences as a psu student taking IST402.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -14,8 +14,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
+    "name": "Edwin Reyes",
+    "email": "ejr5508@psu.edu",
     "url": "https://example.com/about-me/"
   }
 }
