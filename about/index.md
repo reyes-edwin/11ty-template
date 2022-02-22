@@ -7,4 +7,10 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+### Edwin Reyes
+
+HCDD Major at Penn State University. 
+
+Quick Links: [Github](https://github.com/reyes-edwin) | [LinkedIn](https://www.linkedin.com/in/edwin-reyes-rodriguez/)
+
+Contact: ejr5508@psu.edu
