@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://example.com/posts/secondpost/</loc>
+    <lastmod>2018-07-04</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+    <lastmod>2022-02-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2022-02-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2022-02-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/page-list/</loc>
+    <lastmod>2022-02-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2022-02-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/webcomponents/</loc>
+    <lastmod>2022-02-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/webdev/</loc>
+    <lastmod>2022-02-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/beginners/</loc>
+    <lastmod>2022-02-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/tutorial/</loc>
+    <lastmod>2022-02-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/js/</loc>
+    <lastmod>2022-02-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/api/</loc>
+    <lastmod>2022-02-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/ip/</loc>
+    <lastmod>2022-02-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/firstpost/</loc>
+    <lastmod>2023-04-01</lastmod>
+  </url>
+</urlset>
