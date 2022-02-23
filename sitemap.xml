@@ -32,6 +32,21 @@
   </url>
   
   <url>
+    <loc>https://example.com/tags/js/</loc>
+    <lastmod>2022-02-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/api/</loc>
+    <lastmod>2022-02-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/ip/</loc>
+    <lastmod>2022-02-23</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/tags/webcomponents/</loc>
     <lastmod>2022-02-23</lastmod>
   </url>
@@ -48,21 +63,6 @@
   
   <url>
     <loc>https://example.com/tags/tutorial/</loc>
-    <lastmod>2022-02-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/js/</loc>
-    <lastmod>2022-02-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/api/</loc>
-    <lastmod>2022-02-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tags/ip/</loc>
     <lastmod>2022-02-23</lastmod>
   </url>
   
