@@ -133,7 +133,7 @@ module.exports = function(eleventyConfig) {
     // You can also pass this in on the command line using `--pathprefix`
 
     // Optional (default is shown)
-    pathPrefix: "/",
+    pathPrefix: "/11ty-template/",
     // -----------------------------------------------------------------
 
     // These are all optional (defaults are shown):
