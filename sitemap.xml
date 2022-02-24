@@ -32,6 +32,21 @@
   </url>
   
   <url>
+    <loc>https://example.com/11ty-template/tags/js/</loc>
+    <lastmod>2022-02-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/11ty-template/tags/api/</loc>
+    <lastmod>2022-02-24</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/11ty-template/tags/ip/</loc>
+    <lastmod>2022-02-24</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/11ty-template/tags/webcomponents/</loc>
     <lastmod>2022-02-24</lastmod>
   </url>
@@ -48,21 +63,6 @@
   
   <url>
     <loc>https://example.com/11ty-template/tags/tutorial/</loc>
-    <lastmod>2022-02-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/11ty-template/tags/js/</loc>
-    <lastmod>2022-02-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/11ty-template/tags/api/</loc>
-    <lastmod>2022-02-24</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.com/11ty-template/tags/ip/</loc>
     <lastmod>2022-02-24</lastmod>
   </url>
   
