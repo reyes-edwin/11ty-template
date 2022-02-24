@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://example.com/posts/secondpost/</loc>
+    <loc>https://example.com/11ty-template/posts/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
-    <lastmod>2022-02-23</lastmod>
+    <loc>https://example.com/11ty-template/about/</loc>
+    <lastmod>2022-02-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/</loc>
-    <lastmod>2022-02-23</lastmod>
+    <loc>https://example.com/11ty-template/posts/</loc>
+    <lastmod>2022-02-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2022-02-23</lastmod>
+    <loc>https://example.com/11ty-template/</loc>
+    <lastmod>2022-02-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/page-list/</loc>
-    <lastmod>2022-02-23</lastmod>
+    <loc>https://example.com/11ty-template/page-list/</loc>
+    <lastmod>2022-02-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2022-02-23</lastmod>
+    <loc>https://example.com/11ty-template/tags/</loc>
+    <lastmod>2022-02-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/js/</loc>
-    <lastmod>2022-02-23</lastmod>
+    <loc>https://example.com/11ty-template/tags/webcomponents/</loc>
+    <lastmod>2022-02-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/api/</loc>
-    <lastmod>2022-02-23</lastmod>
+    <loc>https://example.com/11ty-template/tags/webdev/</loc>
+    <lastmod>2022-02-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/ip/</loc>
-    <lastmod>2022-02-23</lastmod>
+    <loc>https://example.com/11ty-template/tags/beginners/</loc>
+    <lastmod>2022-02-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/webcomponents/</loc>
-    <lastmod>2022-02-23</lastmod>
+    <loc>https://example.com/11ty-template/tags/tutorial/</loc>
+    <lastmod>2022-02-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/webdev/</loc>
-    <lastmod>2022-02-23</lastmod>
+    <loc>https://example.com/11ty-template/tags/js/</loc>
+    <lastmod>2022-02-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/beginners/</loc>
-    <lastmod>2022-02-23</lastmod>
+    <loc>https://example.com/11ty-template/tags/api/</loc>
+    <lastmod>2022-02-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/tags/tutorial/</loc>
-    <lastmod>2022-02-23</lastmod>
+    <loc>https://example.com/11ty-template/tags/ip/</loc>
+    <lastmod>2022-02-24</lastmod>
   </url>
   
   <url>
-    <loc>https://example.com/posts/firstpost/</loc>
+    <loc>https://example.com/11ty-template/posts/firstpost/</loc>
     <lastmod>2023-04-01</lastmod>
   </url>
 </urlset>
